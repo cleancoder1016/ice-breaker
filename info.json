@@ -1,0 +1,160 @@
+{
+    "public_identifier": "siva-rama-krishna-prasad-changala-a3115a253",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/siva-rama-krishna-prasad-changala-a3115a253/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250406%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250406T170925Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2aaa0d289eff3f42753ce25d823378bdb9a86de8ca6d622028d9207d47f95216",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/siva-rama-krishna-prasad-changala-a3115a253/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250406%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250406T170925Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e1452e65ddc654f2869d6dd1f0c606ed37c0052faea66c487b71aa615f25dd53",
+    "first_name": "Siva Rama Krishna Prasad",
+    "last_name": "Changala",
+    "full_name": "Siva Rama Krishna Prasad Changala",
+    "follower_count": 580,
+    "occupation": "Full Stack Java Developer at Acentrik",
+    "headline": "Software Developer | C#, Java, Python, .NET Core | Cloud (AWS, Azure) & DevOps (Docker, Kubernetes) | React, PostgreSQL, Streamlit",
+    "summary": "As a passionate and dedicated .NET Developer with over four years of professional experience, I bring a unique blend of technical expertise and innovative problem-solving across software development, machine learning, and digital technologies. My Master's in Computer Science from Wright State University underpins my comprehensive skill set, spanning C# programming, web development, and cutting-edge technologies like cloud computing and machine learning. \n\nI specialize in transforming complex business requirements into robust technological solutions, leveraging my proficiency in .NET Core, ASP.NET, Entity Framework, LINQ, React, and TypeScript to design scalable enterprise applications that drive operational efficiency. Through pivotal projects like my Inventory Management System and Employee Management System, I've consistently delivered impactful solutions, reducing API response times by 30%, improving database query performance by 20%, and decreasing data inconsistencies by 15%. \n\nMy technical versatility extends beyond coding to include cloud platforms, DevOps practices, and microservices architecture, with proven success in implementing role-based access control systems and optimizing digital campaigns. Complementing my technical skills, I hold certifications in Google Ads and Machine Learning, demonstrating my ability to extract meaningful insights and create targeted solutions. \n\nI excel in collaborative environments, continuously learn emerging technologies, and am committed to driving innovation through strategic technological approaches. Whether it's developing complex software systems, analyzing data, or creating engaging digital campaigns, I bring a holistic and innovative approach to solving technological challenges.",
+    "country": "US",
+    "country_full_name": "United States",
+    "city": "Fairborn",
+    "state": "Ohio",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2025
+            },
+            "ends_at": null,
+            "company": "Acentrik",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/acentrik",
+            "company_facebook_profile_url": null,
+            "title": "Full Stack Java Developer",
+            "description": "Assist in developing and deploying web applications using Java and related technologies. Create responsive front-end interfaces and integrate with back-end systems. Collaborate with cross-functional teams in an agile environment. Document technical processes, troubleshoot and provide support for deployed applications.",
+            "location": "Texas, United States",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/acentrik/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250406%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250406T170925Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5094ca65d75faa35b4a0ff77633b65036ad29e04bae43535c2c4b50871e76e13"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2024
+            },
+            "company": "Wright State University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wright-state-university",
+            "company_facebook_profile_url": null,
+            "title": "Student",
+            "description": null,
+            "location": "Fairborn, Ohio",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/wright-state-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250406%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250406T170925Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b6fe5bf99356384880513807f73dd1e73ffb6ae52185cad71b815e2ec25f464"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2024
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Master's degree",
+            "school": "Wright State University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/wright-state-university",
+            "school_facebook_profile_url": null,
+            "description": "Skills: Communication \u00b7 Programming \u00b7 Coding Standards \u00b7 Amazon Web Services (AWS) \u00b7 Data Structures \u00b7 Deep Learning \u00b7 Agile Application Development \u00b7 Python (Programming Language) \u00b7 Machine Learning \u00b7 Computer Science \u00b7 Problem Solving \u00b7 Data Analysis \u00b7 Exploratory Data Analysis \u00b7 Java \u00b7 Agile Environment \u00b7 Engineering",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/wright-state-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250406%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250406T170925Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b6fe5bf99356384880513807f73dd1e73ffb6ae52185cad71b815e2ec25f464",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "field_of_study": "Electronics and Communications Engineering",
+            "degree_name": "Bachelor of Technology - BTech",
+            "school": "National Institute of Technology, Uttarakhand",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/19149908/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: Deep Learning \u00b7 Exploratory Data Analysis \u00b7 Engineering",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/nit-uk/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250406%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250406T170925Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=34ada5ed3b3ff200184d20625bd686bec2836c946ce8cdc2e23447e41dfda1fb",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Telugu"
+    ],
+    "languages_and_proficiencies": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Telugu",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2024
+            },
+            "title": "Inventory Management System",
+            "description": "The \ud835\udddc\ud835\uddfb\ud835\ude03\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddfc\ud835\uddff\ud835\ude06 \ud835\udde0\ud835\uddee\ud835\uddfb\ud835\uddee\ud835\uddf4\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\udde6\ud835\ude06\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddfa (\ud835\udddc\ud835\udde0\ud835\udde6) is a web application designed to streamline the management of products, suppliers, and stock levels. Built with .\ud835\udde1\ud835\uddd8\ud835\udde7 \ud835\uddd6\ud835\uddfc\ud835\uddff\ud835\uddf2 for the backend and \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf0\ud835\ude01\ud835\udddd\ud835\udde6 for the frontend, it provides a scalable and user-friendly platform for modern businesses. The backend uses \ud835\uddd4\ud835\udde6\ud835\udde3.\ud835\udde1\ud835\uddd8\ud835\udde7 \ud835\uddd6\ud835\uddfc\ud835\uddff\ud835\uddf2 for \ud835\udde5\ud835\uddd8\ud835\udde6\ud835\udde7\ud835\uddf3\ud835\ude02\ud835\uddf9 \ud835\uddd4\ud835\udde3\ud835\udddc\ud835\ude00, \ud835\uddd8\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\uddd9\ud835\uddff\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8 \ud835\uddd6\ud835\uddfc\ud835\uddff\ud835\uddf2 for database interactions, and \ud835\uddd4\ud835\ude07\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\udde6\ud835\udde4\ud835\udddf Server for secure data storage. The frontend leverages ReactJS to create a responsive and interactive user interface, complemented by CSS and styled components for a clean design. Together, the technologies enable seamless integration between the frontend and backend, offering features such as product and supplier management, stock tracking, and efficient data handling.  \n\nThe Inventory Management System (IMS) boasts a modular architecture and \ud835\uddf5\ud835\uddf6\ud835\uddf4\ud835\uddf5 \ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf2, with under \ud835\udfee\ud835\udfec\ud835\udfec\ud835\uddfa\ud835\ude00 response times for critical APIs. \ud835\uddd6\ud835\uddfc\ud835\uddf1\ud835\uddf2 \ud835\uddf0\ud835\uddfc\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\uddf4\ud835\uddf2 exceeds \ud835\udff4\ud835\udff1%, ensuring high code quality. It streamlines inventory workflows, reduces costs, and improves order fulfillment. The IMS is a robust and efficient solution for businesses seeking to optimize their inventory management processes.\"",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2024
+            },
+            "title": "Weather Image Classification",
+            "description": "\ud83c\udf26\ufe0f Weather Image Classification Project \ud83c\udf08  \n\nThis project focuses on classifying weather phenomena using a dataset containing over 6,800 labeled images across 11 categories, including hail, rainbow, frost, snow, and more. Through exploratory data analysis and data visualization, I uncovered insights into the dataset's structure, class distribution, and image characteristics.  \n\nKey highlights of the project:  \n- Conducted exploratory data analysis (EDA) to identify class imbalances and visualize image distributions.  \n- Designed intuitive visualizations using Matplotlib, Seaborn, and Plotly Express for effective communication of findings.  \n- Processed images with Pillow (PIL) and utilized Pandas for data management and preparation.  \n- Gained hands-on experience working with a real-world image dataset and preparing it for machine learning applications.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Financial Intelligence Platform",
+            "description": "The \ud835\uddd9\ud835\uddf6\ud835\uddfb\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\udddc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddf9\ud835\uddf9\ud835\uddf6\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2 \ud835\udde3\ud835\uddf9\ud835\uddee\ud835\ude01\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa is a cutting-edge tool designed to provide actionable insights by transforming complex market data. It features \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf9-\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf2 \ud835\ude00\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddee\ud835\uddfb\ud835\uddee\ud835\uddf9\ud835\ude06\ud835\ude00\ud835\uddf6\ud835\ude00 from multiple sources, including news aggregation and social media trends, alongside \ud835\uddfa\ud835\uddee\ud835\uddf0\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf2 \ud835\uddf9\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\ude00\ud835\ude01\ud835\uddfc\ud835\uddf0\ud835\uddf8 \ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf2, market trend forecasting, and risk assessments. Interactive visualizations, such as \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf9-\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf2 \ud835\uddf1\ud835\uddee\ud835\ude00\ud835\uddf5\ud835\uddef\ud835\uddfc\ud835\uddee\ud835\uddff\ud835\uddf1\ud835\ude00, custom technical indicators, and sentiment gauge charts, help users understand market dynamics. The platform also employs \ud835\uddfb\ud835\uddee\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddee\ud835\uddf9 \ud835\uddf9\ud835\uddee\ud835\uddfb\ud835\uddf4\ud835\ude02\ud835\uddee\ud835\uddf4\ud835\uddf2 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddf0\ud835\uddf2\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddfb\ud835\uddf4 for trend analysis and \ud835\ude00\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddf0\ud835\uddf9\ud835\uddee\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb from news articles. Built using \ud835\udde3\ud835\ude06\ud835\ude01\ud835\uddf5\ud835\uddfc\ud835\uddfb \ud835\udfef.\ud835\udfed\ud835\udfed, \ud835\uddd9\ud835\uddf9\ud835\uddee\ud835\ude00\ud835\uddf8, \ud835\udde6\ud835\ude01\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddfa\ud835\uddf9\ud835\uddf6\ud835\ude01, and \ud835\udde3\ud835\uddfc\ud835\ude00\ud835\ude01\ud835\uddf4\ud835\uddff\ud835\uddf2\ud835\udde6\ud835\udde4\ud835\udddf, it integrates market data from \ud835\ude06\ud835\uddf3\ud835\uddf6\ud835\uddfb\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf2, \ud835\udde6\ud835\uddd8\ud835\uddd6 \ud835\uddd4\ud835\udde3\ud835\udddc, and \ud835\uddd9\ud835\uddf6\ud835\uddfb\ud835\uddfb\ud835\uddf5\ud835\ude02\ud835\uddef.\n\nThis platform enhances financial decision-making by offering a sentiment analysis dashboard, portfolio management tools for performance tracking, and ML-based market predictions. The tool has demonstrated a \ud835\udfef\ud835\udfec% \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\ude03\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddf6\ud835\uddfb \ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddee\ud835\uddf0\ud835\uddf0\ud835\ude02\ud835\uddff\ud835\uddee\ud835\uddf0\ud835\ude06 and a \ud835\udfee\ud835\udfec% \ud835\uddf3\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddf0\ud835\uddf2\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf2 for market data. Users can access the platform locally by installing dependencies, setting up API keys, and running the \ud835\udde6\ud835\ude01\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddfa\ud835\uddf9\ud835\uddf6\ud835\ude01 app at \ud835\uddf9\ud835\uddfc\ud835\uddf0\ud835\uddee\ud835\uddf9\ud835\uddf5\ud835\uddfc\ud835\ude00\ud835\ude01:\ud835\udff1\ud835\udfec\ud835\udfec\ud835\udfec. Designed for financial professionals, the platform delivers real-time insights, predictive analytics, and risk management solutions to stay ahead in a fast-moving market.",
+            "url": null
+        }
+    ],
+    "connections": 579,
+    "groups": [
+        {
+            "name": "Become a Solutions Architect",
+            "url": "https://www.linkedin.com/groups/9179284"
+        },
+        {
+            "name": "Python Web Developers",
+            "url": "https://www.linkedin.com/groups/101591"
+        }
+    ]
+}

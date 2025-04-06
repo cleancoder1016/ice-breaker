@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 langchain = "*"
 python-dotenv = "*"
+langchain-ollama = "*"
+scrapy = "*"
 
 [dev-packages]
 
