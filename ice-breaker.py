@@ -7,6 +7,7 @@ from langchain_openai import ChatOpenAI
 from langchain_ollama import ChatOllama
 from agents.linkedin_lookup_agent import linkedin_lookup
 from third_parties.linkendin import scrape_linkedin_profile
+from output_parsers import summary_parser
 
 def ice_break_with(name: str) -> str:
 
@@ -15,7 +16,7 @@ def ice_break_with(name: str) -> str:
     linkedin_username = linkedin_lookup(name=name)
     linkedin_data = scrape_linkedin_profile(
         linkedin_profile_url=linkedin_username,
-        mock=False
+        mock=True
     )
    
 
@@ -23,16 +24,19 @@ def ice_break_with(name: str) -> str:
         given the linkedin information {information} about a person from I want you to create:
         1. a short summary
         2. two interesting facts about them
+
+        Use information from linkedin profile 
+        \n{formatted_information}
     """
-    summary_prompt_template = PromptTemplate(input_variables=["information"], template=summary_template)
+    summary_prompt_template = PromptTemplate(input_variables=["information"],
+                                             partial_variables={"formatted_information": summary_parser.get_format_instructions()}, 
+                                             template=summary_template)
 
     llm = ChatOpenAI(temperature=0, model="gpt-4o")
     #llm = ChatOllama(model='mistral')
-    chain = summary_prompt_template | llm | StrOutputParser()
-    linkedin_data = scrape_linkedin_profile(
-        linkedin_profile_url="https://www.linkedin.com/in/irrelevant-for-mock-mode/",
-        mock=True
-    )
+    #chain = summary_prompt_template | llm | StrOutputParser()
+    chain = summary_prompt_template | llm | summary_parser
+    
     res = chain.invoke(input={"information": linkedin_data})
     print(res)
 
